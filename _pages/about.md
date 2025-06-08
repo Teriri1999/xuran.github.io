@@ -17,7 +17,6 @@ My research interests lie in explainable artificial intelligence (XAI) and its a
 
 From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFSA) group at **University of Montenegro** as a visiting researcher, under the supervision of [Prof. Ljubisa Stanković](https://tfsa.ucg.ac.me/ljubisa.html). During this exchange, I focused on compressive sensing theory and interpretable machine learning for advanced signal and image processing tasks.
 
-
 ---
 
 ## 📰 News
@@ -73,10 +72,6 @@ From May 2024 to February 2025, I joined the Time-Frequency Signal Analysis (TFS
 8. **Hu, X.**, Zhu, M.*, Stanković, D., Feng, Z., Stanković, L.  
    *SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation*  
    _IEEE GRSL_ (Under review) [[Paper](https://arxiv.org/pdf/2412.18121)]
-
-9. Feng, Z., Ji, H.*, **Hu, X.**, Zhu, M., Stanković, L.  
-   *Global Perception Localizer of Transformers for Weakly Supervised Multiple Object Localization*  
-   _Neural Networks_ (Under review)
 
 ---
 
